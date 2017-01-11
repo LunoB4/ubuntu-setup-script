@@ -6,4 +6,4 @@ my setup script for a freshly installed ubuntu system (restricted extras, ppa et
 * install extra specified packages
 * remove specified unwanted packages
 
-- Ubuntu 16.04 was used :), run script using python3 setup.py
+Ubuntu 16.04 was used :), run script using python3 setup.py
